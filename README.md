@@ -96,7 +96,7 @@ $ sudo mysql
 $ CREATE USER 'student'@'%' IDENTIFIED BY 'student';
 $ CREATE DATABASE st;
 $ GRANT ALL PRIVILEGES ON st.* TO 'student'@'%';
-****$ FLUSH PRIVILEGES;
+$ FLUSH PRIVILEGES;
 $ exit
 ```
 3. Вышеприведенной командой был создан пользователь БД с логином `student` и паролем `student`; была создана база данных с именем `st`; пользователю `student` были выданы полные права на работу с БД `st`.
