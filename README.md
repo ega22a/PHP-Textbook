@@ -128,6 +128,7 @@ $ git config --global user.email "Ваша почта"
       4. [Константы](./Theory/Basic/17.md)
       5. [Магические константа](./Theory/Basic/18.md)
       6. [Массивы](./Theory/Basic/23.md)
+      7. [Суперглобальные переменные](./Theory/Basic/24.md)
    5. [Оператор `echo` и функция `print()`](./Theory/Basic/07.md)
    6. [Типы данных в PHP](./Theory/Basic/08.md)
    7. Строки
