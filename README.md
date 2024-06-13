@@ -154,8 +154,10 @@ $ git config --global user.email "Ваша почта"
        5.  [Пример заполненной формы](./Theory/Forms/05.md)
    12. Расширенная часть
        1.  [Дата и время](./Theory/Advanced/01.md)
-       2.  [Подключение файлов](./Theory/Advanced/02.md)
-       3.  [Обработка файлов](./Theory/Advanced/03.md)
+       2.  Работа с файлами
+           1.  [Подключение файлов](./Theory/Advanced/02.md)
+           2.  [Обработка файлов](./Theory/Advanced/03.md)
+           3.  [Загрузка файлов](./Theory/Advanced/04.md)
 2. [Практическая часть](./Practics/)
     1. [Лабораторные работы](./Practics/Laboratory/)
     2. [Практические задания](./Practics/Tasks/)
