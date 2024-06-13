@@ -145,6 +145,13 @@ $ git config --global user.email "Ваша почта"
       2. [Условные операторы](./Theory/Basic/20.md)
       3. [Циклы](./Theory/Basic/21.md)
       4. [Функции](./Theory/Basic/22.md)
+   10. [Регулярные выражения](./Theory/Basic/25.md)
+   11. HTML формы и их обработка в PHP
+       1.  [Обработка форм](./Theory/Forms/01.md)
+       2.  [Валидация форм](./Theory/Forms/02.md)
+       3.  [Обязательные поля](./Theory/Forms/03.md)
+       4.  [Проверка электронной почты и URL-адреса](./Theory/Forms/04.md)
+       5.  [Пример заполненной формы](./Theory/Forms/05.md)
 2. [Практическая часть](./Practics/)
     1. [Лабораторные работы](./Practics/Laboratory/)
     2. [Практические задания](./Practics/Tasks/)
