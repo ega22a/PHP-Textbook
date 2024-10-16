@@ -48,7 +48,7 @@ $ sudo add-apt-repository ppa:ondrej/php && \
   sudo apt install -y openssl git curl unzip mysql-server sqlite3 php8.3-{common,cli,bcmath,curl,mbstring,mysql,tokenizer,xml,zip,sqlite3} && \
   curl -sS https://getcomposer.org/installer -o /tmp/composer-setup.php && \
   sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=composer && \
-  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - && \
+  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && \
   sudo apt install -y nodejs
 ```
 
