@@ -158,9 +158,20 @@ $ git config --global user.email "Ваша почта"
            1.  [Подключение файлов](./Theory/Advanced/02.md)
            2.  [Обработка файлов](./Theory/Advanced/03.md)
            3.  [Загрузка файлов](./Theory/Advanced/04.md)
+       3. [Куки](./Theory/Advanced/05.md)
+       4. [Сессии](./Theory/Advanced/06.md)
 2. [Практическая часть](./Practics/)
-    1. [Лабораторные работы](./Practics/Laboratory/)
-    2. [Практические задания](./Practics/Tasks/)
+   1. [Лабораторные работы](./Practics/Laboratory/)
+      1. [Введение в PHP](./Practics/Laboratory/01.md)
+      2. [Условные конструкции и циклы](./Practics/Laboratory/02.md)
+      3. [Работа с массивами](./Practics/Laboratory/03.md)
+      4. [Функции](./Practics/Laboratory/04.md)
+      5. [Работа с формами и данными пользователей](./Practics/Laboratory/05.md)
+      6. [Работа с файлами](./Practics/Laboratory/06.md)
+      7. [Сессии и куки]()
+      8. [Введение в базы данных MySQL]()
+      9. [Объектно-ориентированное программирование]()
+   2. [Практические задания](./Practics/Tasks/)
 
 
 ## Используемые материалы
