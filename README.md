@@ -206,7 +206,7 @@ $ git config --global user.email "Ваша почта"
       6. [Работа с файлами](./Practics/Laboratory/06.md)
       7. [Сессии и куки](./Practics/Laboratory/07.md)
       8. [Объектно-ориентированное программирование](./Practics/Laboratory/08.md)
-      9. [Введение в базы данных MySQL]()
+      9. [Введение в базы данных MySQL](./Practics/Laboratory/09.md)
    2. [Практические задания](./Practics/Tasks/)
 
 
