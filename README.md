@@ -211,7 +211,7 @@ $ git config --global user.email "Ваша почта"
       11. [Регулярные выражения](./Practics/Laboratory/11.md)
       12. [Работа с API](./Practics/Laboratory/12.md)
    2. [Лабораторные работы: Laravel](./Practics/Laravel/)
-      1. 
+      1. [Введение в Laravel](./Practics/Laravel/01.md)
 
 
 ## Используемые материалы
