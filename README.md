@@ -197,7 +197,7 @@ $ git config --global user.email "Ваша почта"
             13. [Обновление данных](./Theory/Databases/MySQL/13.md)
             14. [Ограничение выбора данных](./Theory/Databases/MySQL/14.md)
 2. [Практическая часть](./Practics/)
-   1. [Лабораторные работы](./Practics/Laboratory/)
+   1. [Лабораторные работы: PHP](./Practics/Laboratory/)
       1. [Введение в PHP](./Practics/Laboratory/01.md)
       2. [Условные конструкции и циклы](./Practics/Laboratory/02.md)
       3. [Работа с массивами](./Practics/Laboratory/03.md)
@@ -208,7 +208,10 @@ $ git config --global user.email "Ваша почта"
       8. [Объектно-ориентированное программирование](./Practics/Laboratory/08.md)
       9. [Введение в базы данных MySQL](./Practics/Laboratory/09.md)
       10. [Исключения](./Practics/Laboratory/10.md)
-   2. [Практические задания](./Practics/Tasks/)
+      11. [Регулярные выражения](./Practics/Laboratory/11.md)
+      12. [Работа с API](./Practics/Laboratory/12.md)
+   2. [Лабораторные работы: Laravel](./Practics/Laravel/)
+      1. 
 
 
 ## Используемые материалы
