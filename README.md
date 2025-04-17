@@ -212,6 +212,9 @@ $ git config --global user.email "Ваша почта"
       12. [Работа с API](./Practics/Laboratory/12.md)
    2. [Лабораторные работы: Laravel](./Practics/Laravel/)
       1. [Введение в Laravel](./Practics/Laravel/01.md)
+      2. [Список дел](./Practics/Laravel/02.md)
+   3. [Самостоятельные работы](./Practics/Tasks/)
+      1. [Выполнение задания по брифу](./Practics/Tasks/01.md)
 
 
 ## Используемые материалы
