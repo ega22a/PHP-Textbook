@@ -210,10 +210,13 @@ $ git config --global user.email "Ваша почта"
       10. [Исключения](./Practics/Laboratory/10.md)
       11. [Регулярные выражения](./Practics/Laboratory/11.md)
       12. [Работа с API](./Practics/Laboratory/12.md)
-   2. [Лабораторные работы: Laravel](./Practics/Laravel/)
+   2. [Лабораторные работы: Composer](./Practics/Composer/)
+      1. [Основы Composer и автозагрузка](./Practics/Composer/01.md)
+      2. [Namespaces и использование стандартов PSR](./Practics/Composer/02.md)
+   3. [Лабораторные работы: Laravel](./Practics/Laravel/)
       1. [Введение в Laravel](./Practics/Laravel/01.md)
       2. [Список дел](./Practics/Laravel/02.md)
-   3. [Самостоятельные работы](./Practics/Tasks/)
+   4. [Самостоятельные работы](./Practics/Tasks/)
       1. [Выполнение задания по брифу](./Practics/Tasks/01.md)
 
 
